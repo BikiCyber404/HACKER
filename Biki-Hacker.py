@@ -91,7 +91,7 @@ print  """
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
 print '\x1b[1;93m    Dalkhor Facebook Account Cloner'
-\033[1;92m-----------------------------------------------
+print\033[1;92m-----------------------------------------------
 print\033[1;92m>> AUTHOR : BIKI HACKER
 print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
 print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -152,7 +152,7 @@ def login():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    \033[1;92m-----------------------------------------------
+    print\033[1;92m-----------------------------------------------
     print\033[1;92m>> AUTHOR : BIKI HACKER
     print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
     print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -238,7 +238,7 @@ def Zeek():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-    \033[1;92m-----------------------------------------------
+    print\033[1;92m-----------------------------------------------
     print\033[1;92m>> AUTHOR : BIKI HACKER
     print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
     print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -278,7 +278,7 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        \033[1;92m-----------------------------------------------
+        print\033[1;92m-----------------------------------------------
         print\033[1;92m>> AUTHOR : BIKI HACKER
         print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
         print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -312,13 +312,12 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;92m╔══════════════════╗'
-        print'\x1b[1;92m ║✯𝐂𝐫𝐞𝐚𝐭𝐨𝐫:  Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐘𝐨𝐮𝐓𝐮𝐛𝐞: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: Biki Mahamood║'
-        print'\x1b[1;92m ║✯𝐆𝐢𝐭𝐇𝐮𝐛: BikiCyber404║'
-        time.sleep(0.05)    
-        print '\x1b[1;92m╚══════════════════╝'
+        print\033[1;92m-----------------------------------------------
+        print\033[1;92m>> AUTHOR : BIKI HACKER
+        print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
+        print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
+        print\033[1;92m>> GITHUB : BikiCyber404
+        print\033[1;92m-----------------------------------------------"""
         print '                                        ' 
         print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
         print'                                                '    
@@ -345,7 +344,7 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        \033[1;92m-----------------------------------------------
+        print\033[1;92m-----------------------------------------------
         print\033[1;92m>> AUTHOR : BIKI HACKER
         print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
         print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -378,7 +377,7 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        \033[1;92m-----------------------------------------------
+        print\033[1;92m-----------------------------------------------
         print\033[1;92m>> AUTHOR : BIKI HACKER
         print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
         print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -410,7 +409,7 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
         print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-        \033[1;92m-----------------------------------------------
+        print\033[1;92m-----------------------------------------------
         print\033[1;92m>> AUTHOR : BIKI HACKER
         print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
         print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -456,7 +455,7 @@ def action():
 \x1b[1;93m   ╚═════╝░╚═╝\x1b[1;93m╚═╝░░╚═╝╚═╝
     """
     print '\x1b[1;93m    Pakistani Facebook Account Cloner'
-    \033[1;92m-----------------------------------------------
+    print\033[1;92m-----------------------------------------------
     print\033[1;92m>> AUTHOR : BIKI HACKER
     print\033[1;92m>> FACEBOOK : BIKI MAHMOOD
     print\033[1;92m>> YOUTUBE : BIKI MAHMOOD
@@ -555,7 +554,7 @@ def action():
 
 \033[1;92mThanks \033[1;93mUseing My CLONE FB Tool
 \033[1;92m My Faecbook\033[1;93mhttps://m.me/kawsarmisty1257
-\033[1;92mGitHub\033[1;93mrakibmozumdar404"""
+\033[1;92mGitHub\033[1;93mBikiCyber404"""
 
     
     raw_input("\n\033[1;91m[\033[1;92mBack\033[1;91m]")
